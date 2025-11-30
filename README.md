@@ -20,4 +20,5 @@ This is a custom conky script that adds a clock and date display to the desktop.
 
 
 ## Screenshots
-![Screenshot](./Screenshots/grafik.png)
+![Screenshot](./Screenshots/Screenshot-1.png)
+![Screenshot](./Screenshots/Screenshot-2.png)
