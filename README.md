@@ -2,5 +2,6 @@
 
 This is a custom conky script that adds a clock and date display to the desktop.
 
-To get this working, you need to download this font: [Joygist Font](https://www.dafont.com/de/joygist.font)
+- 1. download this font: [Joygist Font](https://www.dafont.com/de/joygist.font)
+- 2. Run the [installation-script](./install.sh)
 
